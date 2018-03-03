@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 3rd, 2018
 
 ### Student Name:  
-(First and Last Name)
+Hannah Wait
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I completed a JavaScript code that created an interactive tax bracket calculator.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hwait12.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. When something is not working correctly with the JavaScript code, check for small mistakes like missed brackets.
+2. How to use nested "if" statements in JS.
+3. How to work with JS functions like "getElementByID".
 
