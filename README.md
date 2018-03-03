@@ -13,7 +13,7 @@ Hannah Wait
 I completed a JavaScript code that created an interactive tax bracket calculator.
 
 ### View Project:
-https://hwait12.github.io/lesson5_javascript2/
+https://hwait12.github.io/lesson5_javascript2.1/
 
 ### Lessons Learned in the Assignment:
 1. When something is not working correctly with the JavaScript code, check for small mistakes like missed brackets.
